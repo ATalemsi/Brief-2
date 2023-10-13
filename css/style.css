@@ -188,9 +188,14 @@ hr {
 .container-img-b2 .menu1{
       margin-left: 2%;
       gap:80%;
+      width:500px;
+      height:300px;
 
 }
-
+.container-img-b2 .menu2{
+    width:500px;
+    height:300px;
+}
 footer{
     margin-top: 5%;
 }
@@ -481,4 +486,8 @@ label{
 }
 .conti{
     margin-top: -5%;
+}
+.pizza{
+    width:600px;
+    height:600px;
 }
